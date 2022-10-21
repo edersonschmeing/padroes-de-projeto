@@ -1,8 +1,5 @@
 package prototype.java;
 
-
-import prototype.java.Forma;
-
 public class Retangulo extends Forma {
     
     public int largura;
