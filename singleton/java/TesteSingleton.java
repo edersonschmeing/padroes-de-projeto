@@ -1,4 +1,5 @@
-package java;
+package singleton.java;
+
 public class TesteSingleton {
  
     public static void main(String[] args) {

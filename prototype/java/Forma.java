@@ -1,4 +1,6 @@
-package java;
+package prototype.java;
+
+
 public abstract class Forma {
     public int x;
     public int y;

@@ -1,4 +1,4 @@
-package java;
+package prototype.java;
 
 public class TestePrototype {
     public static void main(String[] args) {

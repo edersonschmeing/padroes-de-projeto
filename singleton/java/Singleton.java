@@ -1,4 +1,5 @@
-package java;
+package singleton.java;
+
 public final class Singleton {
     
     private static Singleton instancia = null;
