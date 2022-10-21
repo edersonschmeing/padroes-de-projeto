@@ -5,6 +5,9 @@ import abstract_factory.java.Modelo.CadeiraModerna;
 
 import abstract_factory.java.Modelo.MesaDeCentro;
 import abstract_factory.java.Modelo.MesaDeCentroModerna;
+import abstract_factory.java.Modelo.Sofa;
+import abstract_factory.java.Modelo.SofaArtDeco;
+import abstract_factory.java.Modelo.SofaModerna;
 
 
 public class FabricaModernaFactory implements FabricaFactory {
@@ -20,7 +23,12 @@ public class FabricaModernaFactory implements FabricaFactory {
 
         System.out.println("Fabricando uma mesa moderna");
         return new MesaDeCentroModerna();
+        
+    }
 
+    public Sofa fabricaSofa(){
+        System.out.println("Fabricando um sofa moderno");
+        return new SofaModerna();
     }
 
 }
