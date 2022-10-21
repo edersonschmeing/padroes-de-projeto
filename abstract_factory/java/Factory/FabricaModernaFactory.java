@@ -6,7 +6,6 @@ import abstract_factory.java.Modelo.CadeiraModerna;
 import abstract_factory.java.Modelo.MesaDeCentro;
 import abstract_factory.java.Modelo.MesaDeCentroModerna;
 import abstract_factory.java.Modelo.Sofa;
-import abstract_factory.java.Modelo.SofaArtDeco;
 import abstract_factory.java.Modelo.SofaModerna;
 
 

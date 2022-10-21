@@ -5,7 +5,6 @@ import abstract_factory.java.Modelo.CadeiraVitoriano;
 import abstract_factory.java.Modelo.MesaDeCentro;
 import abstract_factory.java.Modelo.MesaDeCentroVitoriano;
 import abstract_factory.java.Modelo.Sofa;
-import abstract_factory.java.Modelo.SofaArtDeco;
 import abstract_factory.java.Modelo.SofaVitoriano;
 
 public class FabricaVitorianoFactory implements FabricaFactory {
