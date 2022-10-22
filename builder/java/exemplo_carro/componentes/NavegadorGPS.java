@@ -1,4 +1,4 @@
-package builder.java.exemplo.componentes;
+package builder.java.exemplo_carro.componentes;
 
 
 public class NavegadorGPS {

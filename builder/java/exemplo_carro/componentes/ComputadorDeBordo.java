@@ -1,6 +1,6 @@
-package builder.java.exemplo.componentes;
+package builder.java.exemplo_carro.componentes;
 
-import builder.java.exemplo.carros.Carro;
+import builder.java.exemplo_carro.carros.Carro;
 
 public class ComputadorDeBordo {
 

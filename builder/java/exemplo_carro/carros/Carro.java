@@ -1,9 +1,9 @@
-package builder.java.exemplo.carros;
+package builder.java.exemplo_carro.carros;
 
-import builder.java.exemplo.componentes.ComputadorDeBordo;
-import builder.java.exemplo.componentes.Motor;
-import builder.java.exemplo.componentes.NavegadorGPS;
-import builder.java.exemplo.componentes.Transmissao;
+import builder.java.exemplo_carro.componentes.ComputadorDeBordo;
+import builder.java.exemplo_carro.componentes.Motor;
+import builder.java.exemplo_carro.componentes.NavegadorGPS;
+import builder.java.exemplo_carro.componentes.Transmissao;
 
 public class Carro {
     
