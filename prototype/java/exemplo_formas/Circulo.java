@@ -1,4 +1,4 @@
-package prototype.java;
+package prototype.java.exemplo_formas;
 
 
 public class Circulo extends Forma {

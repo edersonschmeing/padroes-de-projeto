@@ -1,4 +1,4 @@
-package prototype.java;
+package prototype.java.exemplo_formas;
 
 public class TestePrototype {
     public static void main(String[] args) {
