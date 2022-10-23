@@ -48,9 +48,16 @@ Os padrões estruturais explicam como montar objetos e classes em estruturas mai
 
 O [Adapter](https://refactoring.guru/pt-br/design-patterns/adapter) é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.
 
+[Implementação em Java](adapter/java)
+
+#### - Bridge
+
+O [Bridge](https://refactoring.guru/pt-br/design-patterns/bridge) é um padrão de projeto estrutural que permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas—abstração e implementação—que podem ser desenvolvidas independentemente umas das outras. 
+
 
 ### Padrões Comportamentais
 
+Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos.
 
 
 ### Referências 
