@@ -1,4 +1,4 @@
-package abstract_factory.java.Modelo;
+package abstract_factory.java.exemplo_moveis.Modelo;
 
 public interface MesaDeCentro {
 
