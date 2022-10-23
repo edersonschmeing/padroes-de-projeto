@@ -1,8 +1,15 @@
+/**
+* Engenharia de Software Moderna - Padrões de Projeto (Cap. 6)
+* Prof. Marco Tulio Valente
+* 
+* Exemplo do padrão de projeto Adaptador
+*
+*/
+
 package adapter.java.exemplo_projetor;
 
 import adapter.java.exemplo_projetor.adapters.AdaptadorProjetorLG;
 import adapter.java.exemplo_projetor.adapters.AdaptadorProjetorSamsung;
-import adapter.java.exemplo_projetor.adapters.ControlaProjetores;
 import adapter.java.exemplo_projetor.modelo.ProjetorLG;
 import adapter.java.exemplo_projetor.modelo.ProjetorSamsung;
 
@@ -14,7 +21,7 @@ public class ClienteAdapter {
         
         AdaptadorProjetorLG projetorLG = new AdaptadorProjetorLG(new ProjetorLG());
         
-        ControlaProjetores controlaProjetores = new ControlaProjetores();
+        ControleProjetores controlaProjetores = new ControleProjetores();
         
         controlaProjetores.inicia(projetorSamsung);  
         controlaProjetores.inicia(projetorLG);      
