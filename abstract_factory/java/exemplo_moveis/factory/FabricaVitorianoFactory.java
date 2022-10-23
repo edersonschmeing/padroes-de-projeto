@@ -1,11 +1,11 @@
-package abstract_factory.java.exemplo_moveis.Factory;
+package abstract_factory.java.exemplo_moveis.factory;
 
-import abstract_factory.java.exemplo_moveis.Modelo.Cadeira;
-import abstract_factory.java.exemplo_moveis.Modelo.CadeiraVitoriano;
-import abstract_factory.java.exemplo_moveis.Modelo.MesaDeCentro;
-import abstract_factory.java.exemplo_moveis.Modelo.MesaDeCentroVitoriano;
-import abstract_factory.java.exemplo_moveis.Modelo.Sofa;
-import abstract_factory.java.exemplo_moveis.Modelo.SofaVitoriano;
+import abstract_factory.java.exemplo_moveis.modelo.Cadeira;
+import abstract_factory.java.exemplo_moveis.modelo.CadeiraVitoriano;
+import abstract_factory.java.exemplo_moveis.modelo.MesaDeCentro;
+import abstract_factory.java.exemplo_moveis.modelo.MesaDeCentroVitoriano;
+import abstract_factory.java.exemplo_moveis.modelo.Sofa;
+import abstract_factory.java.exemplo_moveis.modelo.SofaVitoriano;
 
 public class FabricaVitorianoFactory implements FabricaFactory {
     

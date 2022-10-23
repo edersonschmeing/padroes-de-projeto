@@ -1,4 +1,4 @@
-package abstract_factory.java.exemplo_moveis.Modelo;
+package abstract_factory.java.exemplo_moveis.modelo;
 
 public class MesaDeCentroArtDeco implements MesaDeCentro {
     

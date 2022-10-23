@@ -1,12 +1,12 @@
 package abstract_factory.java.exemplo_moveis;
 
-import abstract_factory.java.exemplo_moveis.Factory.FabricaFactory;
-import abstract_factory.java.exemplo_moveis.Factory.FabricaModernaFactory;
-import abstract_factory.java.exemplo_moveis.Factory.FabricaVitorianoFactory;
-import abstract_factory.java.exemplo_moveis.Factory.FabricaArtDecoFactory;
-import abstract_factory.java.exemplo_moveis.Modelo.Cadeira;
-import abstract_factory.java.exemplo_moveis.Modelo.MesaDeCentro;
-import abstract_factory.java.exemplo_moveis.Modelo.Sofa;
+import abstract_factory.java.exemplo_moveis.factory.FabricaArtDecoFactory;
+import abstract_factory.java.exemplo_moveis.factory.FabricaFactory;
+import abstract_factory.java.exemplo_moveis.factory.FabricaModernaFactory;
+import abstract_factory.java.exemplo_moveis.factory.FabricaVitorianoFactory;
+import abstract_factory.java.exemplo_moveis.modelo.Cadeira;
+import abstract_factory.java.exemplo_moveis.modelo.MesaDeCentro;
+import abstract_factory.java.exemplo_moveis.modelo.Sofa;
 
 public class ClienteAbstractFactory {
 

@@ -1,5 +1,5 @@
 
-package adapter.java.exemplo_burraco_redondo.Modelo;
+package adapter.java.exemplo_burraco_redondo.modelo;
 
 public class PinoRedondo {
     
