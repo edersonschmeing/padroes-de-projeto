@@ -13,10 +13,18 @@ public class ClienteAbstractFactory {
     public static void main(String[] args) {
            
         System.out.println("### Fabricando móveis  ###");        
-            
-        FabricaFactory factory = new FabricaModernaFactory();
-        //FabricaFactory factory = new FabricaVitorianoFactory();
-        //FabricaFactory factory = new FabricaArtDecoFactory();
+        
+        String tipos[] = {"M", "V", "A"};
+
+        String tipo = tipos[0]; 
+
+        FabricaFactory factory = null;
+        if (tipo == "M")
+            factory = new FabricaModernaFactory();
+        else if  (tipo == "V") 
+            factory = new FabricaVitorianoFactory();
+        else 
+            factory = new FabricaArtDecoFactory();
 
         Cadeira cadeira = factory.fabricaCadeira();
         cadeira.sentar();
