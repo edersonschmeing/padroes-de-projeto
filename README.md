@@ -5,6 +5,8 @@ Padrões de projeto são soluções para problemas comuns e frequentes em projet
 ---
 ### Padrões Criacionais
 
+Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.
+
 #### - Factory Method
 
 O [Factory Method](https://refactoring.guru/pt-br/design-patterns/factory-method) é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
@@ -39,6 +41,12 @@ O [Singleton](https://refactoring.guru/pt-br/design-patterns/singleton) é um pa
  
 ---
 ### Padrões Estruturais
+
+Os padrões estruturais explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.
+
+#### - Adapter
+
+O [Adapter](https://refactoring.guru/pt-br/design-patterns/adapter) é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.
 
 
 ### Padrões Comportamentais
