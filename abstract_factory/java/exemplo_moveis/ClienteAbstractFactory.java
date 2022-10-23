@@ -17,6 +17,9 @@ public class ClienteAbstractFactory {
         String tipos[] = {"M", "V", "A"};
 
         String tipo = tipos[0]; 
+        //String tipo = tipos[1]; 
+        //String tipo = tipos[2]; 
+        
 
         FabricaFactory factory = null;
         if (tipo == "M")

@@ -1,4 +1,4 @@
-## Singleton
+## Adapter
 
 
 ---
@@ -12,5 +12,4 @@
 
 
 #### - Desvantagens
-
 
