@@ -1,4 +1,4 @@
-package singleton.java;
+package singleton.java.atividade_log;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -19,7 +19,7 @@ public class LogSingleton {
         try {
             String path = System.getProperty("user.dir");
             System.out.println(path);
-            String filePath = path + File.separator + "singleton" + File.separator + "log_singleton.log";            
+            String filePath = path + File.separator + "singleton" + File.separator + "java" + File.separator + "atividade_log" + File.separator +  "log_singleton.log";            
             this.arquivo = new FileWriter(filePath);
             this.writer = new PrintWriter(arquivo);
         }catch (IOException ex) {

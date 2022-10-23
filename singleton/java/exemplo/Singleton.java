@@ -1,4 +1,4 @@
-package singleton.java;
+package singleton.java.exemplo;
 
 public final class Singleton {
     

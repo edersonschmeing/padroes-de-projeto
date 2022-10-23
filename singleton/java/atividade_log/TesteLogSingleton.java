@@ -1,4 +1,4 @@
-package singleton.java;
+package singleton.java.atividade_log;
 
 public class TesteLogSingleton {
  

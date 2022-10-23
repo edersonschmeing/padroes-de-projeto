@@ -1,4 +1,5 @@
-package singleton.java;
+package singleton.java.exemplo;
+
 
 public class TesteSingleton {
  
@@ -15,7 +16,6 @@ public class TesteSingleton {
         System.out.println(singleton.valor);
         System.out.println(segundoSingleton.valor);
         System.out.println(terceiroSingleton.valor);
-
 
         System.out.println("");
         System.out.println("Idenficação o objeto");
