@@ -11,7 +11,7 @@ Os padrões criacionais fornecem vários mecanismos de criação de objetos, que
 
 O [Factory Method](https://refactoring.guru/pt-br/design-patterns/factory-method) é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
 
-[Implementação em Java](factory_method/java)
+- [Implementação em Java](factory_method/java)
 
 
 #### - Abstract Factory
