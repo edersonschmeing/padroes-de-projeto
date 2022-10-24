@@ -27,22 +27,18 @@ public class CarroBuilder implements Builder {
         this.assentos = assentos;
     }
 
-    @Override
     public void setMotor(Motor motor) {
         this.motor = motor;
     }
 
-    @Override
     public void setTransmissao(Transmissao transmissao) {
         this.transmissao = transmissao;
     }
 
-    @Override
     public void setComputadorDeBordo(ComputadorDeBordo computadorDeBordo) {
         this.computadorDeBordo = computadorDeBordo;
     }
 
-    @Override
     public void setNavegadorGPS(NavegadorGPS navegadorGPS) {
         this.navegadorGPS = navegadorGPS;
     }
