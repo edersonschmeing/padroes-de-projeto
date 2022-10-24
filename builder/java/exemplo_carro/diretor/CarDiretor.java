@@ -7,7 +7,7 @@ import builder.java.exemplo_carro.componentes.Motor;
 import builder.java.exemplo_carro.componentes.NavegadorGPS;
 import builder.java.exemplo_carro.componentes.Transmissao;
 
-public class Diretor {
+public class CarDiretor {
 
     public void construirCarroSport(Builder builder) {
         builder.setTipoDoCarro(TipoDoCarro.CARRO_SPORT);

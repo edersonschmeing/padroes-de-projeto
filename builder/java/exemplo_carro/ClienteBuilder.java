@@ -4,13 +4,13 @@ import builder.java.exemplo_carro.builders.CarroBuilder;
 import builder.java.exemplo_carro.builders.CarroManualBuilder;
 import builder.java.exemplo_carro.carros.Carro;
 import builder.java.exemplo_carro.carros.Manual;
-import builder.java.exemplo_carro.diretor.Diretor;
+import builder.java.exemplo_carro.diretor.CarDiretor;
 
 public class ClienteBuilder {
     
     public static void main(String[] args) {
         
-        Diretor diretor = new Diretor();
+        CarDiretor diretor = new CarDiretor();
         
         CarroBuilder builder = new CarroBuilder();
         diretor.construirCarroSport(builder);
