@@ -11,33 +11,33 @@ Os padrões criacionais fornecem vários mecanismos de criação de objetos, que
 
 O [Factory Method](https://refactoring.guru/pt-br/design-patterns/factory-method) é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
 
-[Implementação em Java](factory_method/java)
+- [Implementação em Java](factory_method/java)
 
 
 #### - Abstract Factory
 
 O [Abstract Factory](https://refactoring.guru/pt-br/design-patterns/abstract-factory) é um padrão de projeto criacional que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
 
-[Implementação em Java](abstract_factory/java)
+- [Implementação em Java](abstract_factory/java)
 
 #### - Builder
 
 O [Builder](https://refactoring.guru/pt-br/design-patterns/builder) é um padrão de projeto criacional que permite a você construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
-[Implementação em Java](builder/java)
+- [Implementação em Java](builder/java)
 
 #### - Prototype
 
 O [Prototype](https://refactoring.guru/pt-br/design-patterns/prototype) é um padrão de projeto criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
 
-[Implementação em Java](prototype/java)
+- [Implementação em Java](prototype/java)
 
 
 #### - Singleton
 
 O [Singleton](https://refactoring.guru/pt-br/design-patterns/singleton) é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
 
-[Implementação em Java](singleton/java)
+- [Implementação em Java](singleton/java)
  
 ---
 ### Padrões Estruturais
@@ -48,7 +48,7 @@ Os padrões estruturais explicam como montar objetos e classes em estruturas mai
 
 O [Adapter](https://refactoring.guru/pt-br/design-patterns/adapter) é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.
 
-[Implementação em Java](adapter/java)
+- [Implementação em Java](adapter/java)
 
 #### - Bridge
 
@@ -66,4 +66,7 @@ SHVETS, Alexander. Dive Into Design Patterns. 2021.
 [Refactoring and Design Patterns](https://refactoring.guru/)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design patterns: elements of reusable object-oriented software. Addison-Wesley, 1995.
+
+VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com
+Produtividade, 2020. [engsoftmoderna](https://engsoftmoderna.info/).
 
