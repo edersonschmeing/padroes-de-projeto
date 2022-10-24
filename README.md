@@ -67,3 +67,6 @@ SHVETS, Alexander. Dive Into Design Patterns. 2021.
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design patterns: elements of reusable object-oriented software. Addison-Wesley, 1995.
 
+VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com
+Produtividade, 2020. [engsoftmoderna](https://engsoftmoderna.info/).
+
