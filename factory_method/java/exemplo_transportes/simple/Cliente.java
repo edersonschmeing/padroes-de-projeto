@@ -3,7 +3,7 @@ package factory_method.java.exemplo_transportes.simple;
 import factory_method.java.exemplo_transportes.simple.factory.TransporteSimpleFactory;
 import factory_method.java.exemplo_transportes.simple.modelo.Transporte;
 
-public class ClienteSimpleFactory {
+public class Cliente {
 
     public static void main(String[] args) {
      

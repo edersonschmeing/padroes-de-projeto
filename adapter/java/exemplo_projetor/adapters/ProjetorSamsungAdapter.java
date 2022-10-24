@@ -2,11 +2,11 @@ package adapter.java.exemplo_projetor.adapters;
 
 import adapter.java.exemplo_projetor.modelo.ProjetorSamsung;
 
-public class AdaptadorProjetorSamsung implements Projetor {
+public class ProjetorSamsungAdapter implements Projetor {
     
     private ProjetorSamsung projetor;
 
-    public AdaptadorProjetorSamsung (ProjetorSamsung projetor) {
+    public ProjetorSamsungAdapter (ProjetorSamsung projetor) {
       this.projetor = projetor;
     }
  

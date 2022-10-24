@@ -1,6 +1,6 @@
 package singleton.java.atividade_log;
 
-public class TesteLogSingleton {
+public class Cliente {
  
     public static void main(String[] args) {
         

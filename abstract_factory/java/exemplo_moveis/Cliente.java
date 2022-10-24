@@ -8,7 +8,7 @@ import abstract_factory.java.exemplo_moveis.modelo.Cadeira;
 import abstract_factory.java.exemplo_moveis.modelo.MesaDeCentro;
 import abstract_factory.java.exemplo_moveis.modelo.Sofa;
 
-public class ClienteAbstractFactory {
+public class Cliente {
 
     public static void main(String[] args) {
            

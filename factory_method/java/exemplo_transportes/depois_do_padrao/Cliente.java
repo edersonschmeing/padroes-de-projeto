@@ -8,7 +8,7 @@ import factory_method.java.exemplo_transportes.depois_do_padrao.factory.Rodoviar
 import factory_method.java.exemplo_transportes.depois_do_padrao.factory.TransporteFactory;
 import factory_method.java.exemplo_transportes.depois_do_padrao.modelo.Transporte;
 
-public class ClienteFactory {
+public class Cliente {
 
     public static void main(String[] args) {
      

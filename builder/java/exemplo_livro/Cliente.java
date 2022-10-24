@@ -13,7 +13,7 @@ import builder.java.exemplo_livro.builder.LivroBuilder;
 import builder.java.exemplo_livro.modelo.Livro;
 
 
-public class ClienteBuilder {
+public class Cliente {
 
     public static void main(String [] args) {
      

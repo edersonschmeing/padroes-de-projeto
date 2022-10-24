@@ -4,7 +4,7 @@ import factory_method.java.exemplo_transportes.half_simple.factory.NaoTerrestreF
 import factory_method.java.exemplo_transportes.half_simple.factory.TerrestreFactory;
 import factory_method.java.exemplo_transportes.half_simple.modelo.Transporte;
 
-public class ClienteHalfSimpleFactory {
+public class Cliente {
 
     public static void main(String[] args) {
      

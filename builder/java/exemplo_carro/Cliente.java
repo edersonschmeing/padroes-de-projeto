@@ -6,7 +6,7 @@ import builder.java.exemplo_carro.carros.Carro;
 import builder.java.exemplo_carro.carros.Manual;
 import builder.java.exemplo_carro.diretor.CarDiretor;
 
-public class ClienteBuilder {
+public class Cliente {
     
     public static void main(String[] args) {
         

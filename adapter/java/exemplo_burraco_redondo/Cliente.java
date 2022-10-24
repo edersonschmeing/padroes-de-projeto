@@ -1,11 +1,11 @@
 package adapter.java.exemplo_burraco_redondo;
 
-import adapter.java.exemplo_burraco_redondo.adapters.PinoQuadradoAdapter;
+import adapter.java.exemplo_burraco_redondo.adapter.PinoQuadradoAdapter;
 import adapter.java.exemplo_burraco_redondo.modelo.BurracoRedondo;
 import adapter.java.exemplo_burraco_redondo.modelo.PinoQuadrado;
 import adapter.java.exemplo_burraco_redondo.modelo.PinoRedondo;
 
-public class ClienteAdapter {
+public class Cliente {
     
 
 

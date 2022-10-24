@@ -1,6 +1,6 @@
 package prototype.java.exemplo_formas;
 
-public class TestePrototype {
+public class Cliente {
     public static void main(String[] args) {
         
         Circulo circulo = new Circulo();

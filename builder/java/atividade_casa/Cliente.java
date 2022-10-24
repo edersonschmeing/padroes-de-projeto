@@ -1,6 +1,6 @@
 package builder.java.atividade_casa;
 
-public class ClienteBuilder {
+public class Cliente {
     
     public static void main(String[] args) {
        
