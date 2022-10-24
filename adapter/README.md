@@ -1,6 +1,8 @@
 ## Adapter
 
-O Adapter é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si (Livro Mergulho nos Padrões de Projeto).
+O Adapter é um padrão de projeto estrutural que permite objetos com interfaces(meio de comunicação) incompatíveis colaborarem entre si (Livro Mergulho nos Padrões de Projeto).
+
+Converter a interface de uma classe em outra interface(meio de comunicação) esperada pelos clientes. Adapter permite comunicação entre classes que não poderiam trabalhar juntas devido à incompatibilidade de suas interfaces(meio de comunicação). 
 
 ---
 #### - Problema
@@ -15,13 +17,13 @@ Definir uma classe adapter que coverta a interface(meio de comunicação) de uma
 
 #### - Aplicabilidade
 
-Utilize a classe Adapter quando usar uma classe existente, mas sua interface não seja compatível com o resto do seu código.
+Utilize a classe Adapter quando usar uma classe existente, mas sua interface(meio de comunicação) não seja compatível com o resto do seu código.
 
 Utilize o padrão quando reutilizar diversas subclasses existentes que não possuam alguma funcionalidade comum que não pode ser adicionada a superclasse.
 
 #### - Vantagens
 
-Princípio de responsabilidade única. Podemos separar a conversão de interface ou de dados da lógica primária do negócio do programa.
+Princípio de responsabilidade única. Podemos separar a conversão de interface(meio de comunicação) ou de dados da lógica primária do negócio do programa.
 
 Princípio aberto/fechado. Podemos introduzir novos tipos de adaptadores no programa sem quebrar o código cliente existente, desde que eles trabalhem com os adaptadores através da interface cliente.
 
