@@ -21,7 +21,7 @@ Definir um ponto/método de criação estático que retorne essa única instânc
 
 #### - Aplicabilidade
 
-Utilize o padrão Singleton quando uma classe deve ter apenas uma instância disponível em seu software para todos seus clientes; por exemplo, um objeto de base de dados único compartilhado por diferentes partes do software.
+Utilize o padrão Singleton quando uma classe deve ter apenas uma instância disponível em seu software para todos seus clientes. Por exemplo, um objeto de base de dados único compartilhado por diferentes partes do software.
 
 Utilize o padrão Singleton quando precisar de um controle mais rigoroso sobre as variáveis globais.
 
