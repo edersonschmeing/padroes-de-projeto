@@ -18,6 +18,8 @@ Extrair o código de criação para um Factory Method.
 
 Invocar o Factory Method para receber uma instância qualquer que implemente um determinada interface.
 
+#### - Aplicabilidade
+
 #### - Vantagens
 
  Você evita acoplamentos firmes entre o criador e os produtos concretos.
