@@ -20,6 +20,10 @@ Invocar o Factory Method para receber uma instância qualquer que implemente um 
 
 #### - Aplicabilidade
 
+Use o Factory Method quando não souber de antemão os tipos e dependências exatas dos objetos com os quais seu código deve funcionar.
+
+Utilize o Factory Method quando desejar fornecer aos usuários da sua biblioteca ou framework uma maneira de estender seus componentes internos.
+
 #### - Vantagens
 
  Você evita acoplamentos firmes entre o criador e os produtos concretos.
