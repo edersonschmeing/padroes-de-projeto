@@ -52,7 +52,7 @@ O [Adapter](https://refactoring.guru/pt-br/design-patterns/adapter) é um padrã
 
 #### - Bridge
 
-O [Bridge](https://refactoring.guru/pt-br/design-patterns/bridge) é um padrão de projeto estrutural que permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas—abstração e implementação—que podem ser desenvolvidas independentemente umas das outras. 
+O [Bridge](https://refactoring.guru/pt-br/design-patterns/bridge) é um padrão de projeto estrutural que permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas (abstração e implementação) que podem ser desenvolvidas independentemente umas das outras. 
 
 
 ### Padrões Comportamentais
