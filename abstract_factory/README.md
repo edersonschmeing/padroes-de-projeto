@@ -17,6 +17,9 @@ Extrair o código de criação para um Abstract Factory.
 
 Criar uma implementação do Abstract Factory para cada contexto, garantindo assim que todos os objetos criados sejam do mesmo conjunto.
 
+#### - Aplicabilidade
+
+
 #### - Vantagens
 
 Certeza que os objetos obtidos de uma fábrica são compatíveis. 
