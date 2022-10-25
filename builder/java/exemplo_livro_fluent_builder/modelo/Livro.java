@@ -1,4 +1,4 @@
-package builder.java.exemplo_livro.modelo;
+package builder.java.exemplo_livro_fluent_builder.modelo;
 
 
 

@@ -7,10 +7,10 @@
 */
 
 
-package builder.java.exemplo_livro;
+package builder.java.exemplo_livro_fluent_builder;
 
-import builder.java.exemplo_livro.builder.LivroBuilder;
-import builder.java.exemplo_livro.modelo.Livro;
+import builder.java.exemplo_livro_fluent_builder.builder.LivroBuilder;
+import builder.java.exemplo_livro_fluent_builder.modelo.Livro;
 
 
 public class Cliente {

@@ -1,6 +1,6 @@
-package builder.java.exemplo_livro.builder;
+package builder.java.exemplo_livro_fluent_builder.builder;
 
-import builder.java.exemplo_livro.modelo.Livro;
+import builder.java.exemplo_livro_fluent_builder.modelo.Livro;
 
 public class LivroBuilder {
     

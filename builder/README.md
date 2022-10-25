@@ -20,6 +20,14 @@ Dividir a criação do objeto em partes.
 
 Encapsular a criação e montagem das partes em um Builder separado.
 
+#### - Aplicabilidade
+
+Utilize o padrão Builder para se livrar de um muitos construtores na classe.
+
+Use o padrão Builder quando quiser que seu código possa criar diferentes representações de algum produto (por exemplo, casas de pedra e madeira).
+
+Construa árvores Composite ou outros objetos complexos com o Builder. 
+
 #### - Vantagens
 
 Pode-se construir objetos passo a passo, adiar as etapas de construção ou rodar etapas recursivamente.
