@@ -19,6 +19,8 @@ Criar uma implementação do Abstract Factory para cada contexto, garantindo ass
 
 #### - Aplicabilidade
 
+Use o Abstract Factory quando seu código precisa trabalhar com diversas famílias de produtos relacionados, mas que não quer depender de classes concretas daqueles produtos, eles podem ser desconhecidos de antemão ou simplesmente quer permitir uma futura escalabilidade.
+
 
 #### - Vantagens
 
