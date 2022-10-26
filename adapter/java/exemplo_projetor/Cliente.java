@@ -21,7 +21,7 @@ public class Cliente {
         
         ProjetorLGAdapter projetorLG = new ProjetorLGAdapter(new ProjetorLG());
         
-        ControleProjetores controlaProjetores = new ControleProjetores();
+        ControleDeProjetores controlaProjetores = new ControleDeProjetores();
         
         controlaProjetores.inicia(projetorSamsung);  
         controlaProjetores.inicia(projetorLG);      
