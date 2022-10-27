@@ -2,6 +2,8 @@
 
 O Decorator é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de embrulho(wrapper) de objetos que contém os comportamentos (Livro Mergulho nos Padrões de Projeto).
 
+Acrescentar responsabilidades adicionais a um objeto dinamicamente. Decorators oferecem uma alternativa flexível ao uso de herança para estender uma funcionalidade/comportamento(Livro GoF).
+
 ---
 #### - Problema
 
