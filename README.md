@@ -58,7 +58,7 @@ O [Bridge](https://refactoring.guru/pt-br/design-patterns/bridge) é um padrão 
 
 O [Decorator](https://refactoring.guru/pt-br/design-patterns/decorator) é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de embrulho(wrapper) de objetos que contém os comportamentos.
 
-- [Implementação em Java](decorator/java
+- [Implementação em Java](decorator/java)
 
 ### Padrões Comportamentais
 
