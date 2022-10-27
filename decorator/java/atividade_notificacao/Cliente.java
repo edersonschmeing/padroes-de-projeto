@@ -4,7 +4,7 @@ public class Cliente {
 
     public static void main(String[] args) {
 
-       System.out.println("### teste o desafio do Decorator ###");
+       System.out.println("### Teste seu desafio do Decorator ###");
 
     }
     
