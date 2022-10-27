@@ -7,7 +7,7 @@ Acrescentar responsabilidades adicionais a um objeto dinamicamente. Decorators o
 ---
 #### - Problema
 
-Podemos adicionar comportamentos/funcionalidades de forma dinamica em um objeto?
+Podemos adicionar comportamentos/funcionalidades de forma dinâmica em um objeto?
 
 #### - Solução
 
