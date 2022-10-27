@@ -1,4 +1,4 @@
-package adapter.java.atividade_pag_cartao.modelo;
+package adapter.java.atividade_pagamento_cartao.modelo;
 
 public class MaquinaStone {
     
