@@ -1,4 +1,4 @@
-package prototype.java.exemplo_formas;
+package prototype.java.exemplo_formas.modelo;
 
 public class Retangulo extends Forma {
     

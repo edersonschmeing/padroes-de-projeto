@@ -1,5 +1,8 @@
 package prototype.java.exemplo_formas;
 
+import prototype.java.exemplo_formas.modelo.Circulo;
+import prototype.java.exemplo_formas.modelo.Retangulo;
+
 public class Cliente {
     public static void main(String[] args) {
         
