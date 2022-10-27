@@ -1,7 +1,9 @@
 
 ## Prototype
 
-O Prototype é um padrão de projeto criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+O Prototype é um padrão de projeto criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes (Livro Mergulho nos Padrões de Projeto).
+
+Especificar os tipos de objetos a serem criados usando uma instância como protótipo e criar novos objetos ao copiar este protótipo (Livro GoF).
 
 ---
 #### - Problema
