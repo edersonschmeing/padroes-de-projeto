@@ -54,11 +54,28 @@ O [Adapter](https://refactoring.guru/pt-br/design-patterns/adapter) é um padrã
 
 O [Bridge](https://refactoring.guru/pt-br/design-patterns/bridge) é um padrão de projeto estrutural que permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas (abstração e implementação) que podem ser desenvolvidas independentemente umas das outras. 
 
+#### - Composite
+
+
 #### - Decorator
 
 O [Decorator](https://refactoring.guru/pt-br/design-patterns/decorator) é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de embrulho(wrapper) de objetos que contém os comportamentos.
 
 - [Implementação em Java](decorator/java)
+
+
+#### - Facade
+
+
+#### - Flyweigth
+
+
+#### - Proxy
+
+O [Proxy](https://refactoring.guru/pt-br/design-patterns/proxy) é um padrão de projeto estrutural que permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
+
+
+- [Implementação em Java](proxy/java) 
 
 ### Padrões Comportamentais
 
