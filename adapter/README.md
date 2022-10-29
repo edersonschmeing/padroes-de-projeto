@@ -1,5 +1,7 @@
 ## Adapter
 
+https://integu.net/adapter-pattern/
+
 O Adapter é um padrão de projeto estrutural que permite objetos com interfaces(meio de comunicação) incompatíveis colaborarem entre si (Livro Mergulho nos Padrões de Projeto).
 
 Converter a interface de uma classe em outra interface(meio de comunicação) esperada pelos clientes. Adapter permite comunicação entre classes que não poderiam trabalhar juntas devido à incompatibilidade de suas interfaces(meio de comunicação) (Livro GoF). 

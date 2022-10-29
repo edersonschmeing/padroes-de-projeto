@@ -23,6 +23,7 @@ public class Cliente {
         
         PinoQuadradoAdapter pinoQuadradoPequenoAdapter = new PinoQuadradoAdapter(pinoQuadradoPequeno);
         PinoQuadradoAdapter pinoQuadradoGrandeAdapter = new PinoQuadradoAdapter(pinoQuadradoGrande);
+       
         if (burraco.colocar(pinoQuadradoPequenoAdapter)) {
             System.out.println("O pino quadrado de largura 2 se encaixa em um burraco redondo de raio 5.");
         }
