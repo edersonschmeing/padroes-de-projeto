@@ -8,19 +8,24 @@
 
 package adapter.java.exemplo_projetor;
 
+import adapter.java.exemplo_projetor.adapters.Projetor;
 import adapter.java.exemplo_projetor.adapters.ProjetorLGAdapter;
 import adapter.java.exemplo_projetor.adapters.ProjetorSamsungAdapter;
 import adapter.java.exemplo_projetor.modelo.ProjetorLG;
 import adapter.java.exemplo_projetor.modelo.ProjetorSamsung;
 
+
 public class Cliente {
 
     public static void main(String[] args) {
         
-        ProjetorSamsungAdapter projetorSamsung = new ProjetorSamsungAdapter(new ProjetorSamsung());
+        Projetor projetorSamsung = new ProjetorSamsungAdapter(new ProjetorSamsung());
+        //ProjetorSamsung projetorSamsung = new ProjetorSamsungAdapter(new ProjetorSamsung());
         
-        ProjetorLGAdapter projetorLG = new ProjetorLGAdapter(new ProjetorLG());
+        Projetor projetorLG = new ProjetorLGAdapter(new ProjetorLG());
+        //Projetor projetorLG = new ProjetorLGAdapter(new ProjetorLG());
         
+
         ControleDeProjetores controlaProjetores = new ControleDeProjetores();
         
         controlaProjetores.inicia(projetorSamsung);  
