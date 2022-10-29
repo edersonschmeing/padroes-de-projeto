@@ -14,8 +14,8 @@ public class AlunoProxy implements Aluno {
     }
 
     public String getNome() {
-        aluno = AlunoDAO.getAlunoByID(this.id);
-        return aluno.getNome();
+        this.aluno = AlunoDAO.getAlunoByID(this.id);
+        return this.aluno.getNome();
     }
 
     public String getId() {
