@@ -1,4 +1,4 @@
-package proxy.java.exemplo_imagem.Modelo;
+package proxy.java.exemplo_imagem.modelo;
 
 public interface Imagem{
     

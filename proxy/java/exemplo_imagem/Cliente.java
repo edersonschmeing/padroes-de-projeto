@@ -6,7 +6,7 @@
 
 package proxy.java.exemplo_imagem;
 
-import proxy.java.exemplo_imagem.Modelo.Imagem;
+import proxy.java.exemplo_imagem.modelo.Imagem;
 import proxy.java.exemplo_imagem.proxies.ImagemProxy;
 
 public class Cliente {
@@ -24,5 +24,3 @@ public class Cliente {
     }
 
 }
-    
-

@@ -1,7 +1,7 @@
 package proxy.java.exemplo_imagem.proxies;
 
-import proxy.java.exemplo_imagem.Modelo.ImagemReal;
-import proxy.java.exemplo_imagem.Modelo.Imagem;
+import proxy.java.exemplo_imagem.modelo.Imagem;
+import proxy.java.exemplo_imagem.modelo.ImagemReal;
 
 
 public class ImagemProxy implements Imagem {
