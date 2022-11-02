@@ -8,7 +8,7 @@ import decorator.java.exemplo_encriptacao_e_compressao.decorators.EncryptionDeco
 import decorator.java.exemplo_encriptacao_e_compressao.modelo.DataSource;
 import decorator.java.exemplo_encriptacao_e_compressao.modelo.FileDataSource;
 
-public class Client {
+public class Cliente {
 
     public static void main(String[] args) {
         
