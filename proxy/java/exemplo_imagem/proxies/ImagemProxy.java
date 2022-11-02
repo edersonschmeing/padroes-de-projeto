@@ -7,6 +7,7 @@ import proxy.java.exemplo_imagem.modelo.ImagemReal;
 public class ImagemProxy implements Imagem {
     
    private ImagemReal imagemReal;
+   
    private String nomeDoArquivo;
   
    public ImagemProxy(String nomeDoArquivo){
