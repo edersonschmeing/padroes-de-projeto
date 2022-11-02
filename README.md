@@ -66,6 +66,9 @@ O [Decorator](https://refactoring.guru/pt-br/design-patterns/decorator) é um pa
 
 #### - Facade
 
+O [Facade](https://refactoring.guru/pt-br/design-patterns/facade) é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
+
+- [Implementação em Java](facace/java) 
 
 #### - Flyweigth
 
