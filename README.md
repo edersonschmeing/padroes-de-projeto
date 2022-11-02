@@ -56,6 +56,8 @@ O [Bridge](https://refactoring.guru/pt-br/design-patterns/bridge) é um padrão 
 
 #### - Composite
 
+O [Composite](https://refactoring.guru/pt-br/design-patterns/composite) é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+
 
 #### - Decorator
 
@@ -71,6 +73,8 @@ O [Facade](https://refactoring.guru/pt-br/design-patterns/facade) é um padrão 
 - [Implementação em Java](facace/java) 
 
 #### - Flyweigth
+
+O [Flyweigth](https://refactoring.guru/pt-br/design-patterns/flyweight) é um padrão de projeto estrutural que permite a você colocar mais objetos na quantidade de RAM disponível ao compartilhar partes comuns de estado entre os múltiplos objetos ao invés de manter todos os dados em cada objeto. 
 
 
 #### - Proxy
