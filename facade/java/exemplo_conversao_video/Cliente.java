@@ -11,6 +11,8 @@ public class Cliente {
         ConversaoDeVideoFacade converter = new ConversaoDeVideoFacade();
         
         File video_mp4 = converter.converterVideo("youtubevideo.ogg", "mp4");
+
+        System.out.println("nome do arquivo: " + video_mp4.getName());
         // ...
     }
     
