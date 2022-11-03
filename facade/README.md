@@ -8,7 +8,7 @@ Fornecer uma interface única para um conjunto de interfaces de um subsistema. F
 ---
 #### - Problema
 
-Como simplificar o aceso a um software complexo usando uma interface simples? 
+Como simplificar o acesso a um software complexo usando uma interface simples? 
 
 Como reduzir a complexidade interna de um software para o cliente? 
 
