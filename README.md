@@ -84,9 +84,16 @@ O [Proxy](https://refactoring.guru/pt-br/design-patterns/proxy) é um padrão de
 
 - [Implementação em Java](proxy/java) 
 
+---
 ### Padrões Comportamentais
 
 Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos.
+
+#### - Strategy
+
+O [Strategy](https://refactoring.guru/pt-br/design-patterns/strategy) é um padrão de projeto comportamental que permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
+
+- [Implementação em Java](strategy/java) 
 
 
 ### Referências 
