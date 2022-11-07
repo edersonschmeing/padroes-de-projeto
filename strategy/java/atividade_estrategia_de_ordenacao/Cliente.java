@@ -30,7 +30,7 @@ public class Cliente {
         lista2.print(); 
         
         
-        /* Implemente pelo menos mais uma estratégia de ordenação    
+        /* Implemente mais 2 estratégias de ordenação    
          * 
          *  insertionsort 
             shellsort 
