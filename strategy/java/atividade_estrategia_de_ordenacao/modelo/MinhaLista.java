@@ -16,7 +16,7 @@ public class MinhaLista {
         strategy = new BubbleSortStrategy(); // estratégia default: BubbleSort
     }
     
-    public void setSortStrategy(OrdenacaoStrategy strategy) {
+    public void setOrdenacaoStrategy(OrdenacaoStrategy strategy) {
         this.strategy = strategy;  // permite mudar estratégia de ordenação
     }
     

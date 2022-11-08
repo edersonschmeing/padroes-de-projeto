@@ -16,16 +16,16 @@ public class Cliente {
     public static void main(String[] args) {
         System.out.println("Lista #1 foi ordenada com a estratégia default: BubbleSort");
         
-        int [] elementos1 = {3,5,2,4,1,6};
+        int [] elementos1 = {7,3,5,2,4,1,6};
         MinhaLista lista1 = new MinhaLista(elementos1);
         lista1.ordenar(); // ordena lista usando estratégia default: Bubble Sort
         lista1.print();
         
         System.out.println("\nLista #2 foi ordenada com uma outra estratégia: SelectionSort");
         
-        int [] elems2 = {6,5,4,3,2,1};
-        MinhaLista lista2 = new MinhaLista(elems2);
-        lista2.setSortStrategy(new SelectionSortStrategy());
+        int [] elementos2 = {6,5,4,3,2,1,7};
+        MinhaLista lista2 = new MinhaLista(elementos2);
+        lista2.setOrdenacaoStrategy(new SelectionSortStrategy());
         lista2.ordenar(); // ordena lista usando Selection Sort
         lista2.print(); 
         
@@ -35,7 +35,7 @@ public class Cliente {
          *  insertionsort 
             shellsort 
             mergesort 
-            quicksort
+            quicksortcle
             quicksort2
             heapsort
             heapsort
