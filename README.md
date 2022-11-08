@@ -87,7 +87,8 @@ O [Proxy](https://refactoring.guru/pt-br/design-patterns/proxy) é um padrão de
 ---
 ### Padrões Comportamentais
 
-Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos.
+Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos. Eles 
+propõem soluções flexíveis para interação e divisão de responsabilidades entre classes e objetos. 
 
 #### - Strategy
 
