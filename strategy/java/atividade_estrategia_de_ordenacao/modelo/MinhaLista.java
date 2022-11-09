@@ -27,5 +27,11 @@ public class MinhaLista {
     public void print() {
         System.out.println(Arrays.toString(elementos));
     }
-    
+
+
+    public void print_obj_class_a() {
+        System.out.println(strategy.toString());
+    }
+
+
 }

@@ -25,7 +25,13 @@ public class Cliente {
         
         int [] elementos2 = {6,5,4,3,2,1,7};
         MinhaLista lista2 = new MinhaLista(elementos2);
+        
+        lista2.print_obj_class_a(); 
+                
         lista2.setOrdenacaoStrategy(new SelectionSortStrategy());
+
+        lista2.print_obj_class_a(); 
+
         lista2.ordenar(); // ordena lista usando Selection Sort
         lista2.print(); 
         
@@ -37,7 +43,6 @@ public class Cliente {
             mergesort 
             quicksortcle
             quicksort2
-            heapsort
             heapsort
             bucketsort 
           */
