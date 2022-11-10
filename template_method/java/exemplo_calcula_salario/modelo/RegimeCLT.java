@@ -2,24 +2,24 @@ package template_method.java.exemplo_calcula_salario.modelo;
 
 import template_method.java.exemplo_calcula_salario.template_method.Funcionario;;
 
-public class regimeCLT extends Funcionario {
+public class RegimeCLT extends Funcionario {
 
-    public regimeCLT(double salario) {
+    public RegimeCLT(double salario) {
         super(salario);
      }
      
      // implementa método abstrato
-     public double calcularDescontosPrevidencia() { 
+     protected double calcularDescontosPrevidencia() { 
         return salario * 0.1;   
      }
      
      // implementa método abstrato
-     public double calcularDescontosPlanoSaude() {
+     protected double calcularDescontosPlanoSaude() {
         return 100.0;
      }
      
      // implementa método abstrato 
-     public double calcularOutrosDescontos() {
+     protected double calcularOutrosDescontos() {
        return 20.0;
      }
 

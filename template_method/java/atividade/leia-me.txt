@@ -1,4 +1,5 @@
 Resolva um problema real com o padrão Template Method
 
 
-crie nesta pasta uma classe para testar o padrão de projeto Template Method
+crie nesta pasta uma classe chamada Cliente.java para testar o padrão de projeto Template Method e 
+como comentário explique o que problema foi resolvido. 

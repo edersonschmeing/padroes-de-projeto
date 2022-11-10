@@ -21,11 +21,11 @@ public abstract class Funcionario {
       this.salario = salario;
     }
    
-    public abstract double calcularDescontosPrevidencia();
+    protected abstract double calcularDescontosPrevidencia();
     
-    public abstract double calcularDescontosPlanoSaude();
+    protected abstract double calcularDescontosPlanoSaude();
     
-    public abstract double calcularOutrosDescontos();
+    protected abstract double calcularOutrosDescontos();
  
     /**
     * Template Method: define a estrutura de um algoritmo
