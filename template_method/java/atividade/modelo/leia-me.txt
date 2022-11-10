@@ -1,1 +1,1 @@
-crie nesta pasta as classes que extenderam a classe abstrata e implemente os metodos que seram abstratos da super classe.
+crie nesta pasta as classes que extenderam a classe abstrata e implemente os metodos abstratos da super classe.
