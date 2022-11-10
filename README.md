@@ -96,6 +96,10 @@ O [Strategy](https://refactoring.guru/pt-br/design-patterns/strategy) é um padr
 
 - [Implementação em Java](strategy/java) 
 
+O [Template Method](https://refactoring.guru/pt-br/design-patterns/template-method) é um padrão de projeto comportamental que define o esqueleto de um algoritmo na superclasse mas deixa as subclasses sobrescreverem etapas específicas do algoritmo sem modificar sua estrutura. 
+
+- [Implementação em Java](template_method/java) 
+
 
 ### Referências 
 
