@@ -1,0 +1,1 @@
+crie nesta pasta uma classe abstrata com um metódo fixo e os métodos abstratos.
