@@ -3,7 +3,6 @@
       toda vez que for adicionado novos conteúdos nesse canal as 
       pessoas deveram receber notificões. 
 
-      Utilize como base o diagrama, template, exemplo das temperaturas e 
-      orientações dadas pelo professor na aula. 
+      Utilize como base o diagrama, projeto iniciado, exemplo das temperaturas e orientações dadas pelo professor na aula. 
       
 */
