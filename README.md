@@ -90,6 +90,14 @@ O [Proxy](https://refactoring.guru/pt-br/design-patterns/proxy) é um padrão de
 Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos. Eles 
 propõem soluções flexíveis para interação e divisão de responsabilidades entre classes e objetos. 
 
+
+#### - Observer
+
+O [Observer](https://refactoring.guru/pt-br/design-patterns/observer) é um padrão de projeto comportamental que permite que você defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.
+
+- [Implementação em Java](observer/java) 
+
+
 #### - Strategy
 
 O [Strategy](https://refactoring.guru/pt-br/design-patterns/strategy) é um padrão de projeto comportamental que permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
