@@ -1,0 +1,3 @@
+implementar um cenário real que se aplique o padrão Observer.
+
+Pode utilizar a interface Obsever e a classe Subject do exemplo da temperatura. 
