@@ -1,0 +1,1 @@
+implementar o exemplo do livro mergulho nos padrões
