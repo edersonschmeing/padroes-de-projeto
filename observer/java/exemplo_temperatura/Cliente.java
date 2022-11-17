@@ -13,7 +13,6 @@ import observer.java.exemplo_temperatura.modelo.TermometroCelsius;
 import observer.java.exemplo_temperatura.modelo.TermometroFahrenheit;
 
 public class Cliente {
- 
   public static void  main(String [] args) {
     
     Temperatura t = new Temperatura();
@@ -23,10 +22,5 @@ public class Cliente {
     t.setTemp(100.0); // muda temperatura; logo, observadores são notificados
 
   }
-        
-        
-        /* Implemente observadores Kelvin e Fahrenheit. */    
-         
-             
-
+  
 }
