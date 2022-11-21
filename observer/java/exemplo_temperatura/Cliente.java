@@ -16,6 +16,7 @@ public class Cliente {
   public static void  main(String [] args) {
     
     Temperatura t = new Temperatura();
+    
     t.addObserver(new TermometroCelsius());
     t.addObserver(new TermometroFahrenheit());
 
