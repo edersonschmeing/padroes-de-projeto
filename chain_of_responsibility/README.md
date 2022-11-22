@@ -1,7 +1,7 @@
 
 ## Chain of Responsibility (Corrente de responsabilidade)
 
-O Chain of Responsibility é um padrão de projeto comportamental que permite que você passe pedidos por uma corrente de handlers (Processadores). Ao receber um pedido, cada handler(Processador) decide se processa o pedido ou o passa adiante para o próximo handler na corrente (Livro Mergulho nos Padrões de Projeto).
+O Chain of Responsibility é um padrão de projeto comportamental que permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler(processador/manipulador) decide se processa o pedido ou o passa adiante para o próximo handler na corrente (Livro Mergulho nos Padrões de Projeto).
 
 Evita acoplar o remetente de uma requisição ao seu destinatário ao dar a mais de um objeto a chance de servir a requisição. Compõe os objetos em cascata e passa a requisição pela corrente até que um objeto a sirva (Livro GoF).
 
