@@ -1,0 +1,14 @@
+/* 
+      Utilizar o padrão Chain of Responsibility para aprovação de desconto em uma venda 
+      pelo vendedor, supervisor e gerente. 
+
+      O vendedor pode conceder até 10% 
+      O supervisor pode conceder até 15%
+      O gerente pode conceder até 20%
+
+      - Caso o desconto não se enquadre nos critérios para aprovação, o sistema deverá emitir 
+      um mensagem informando o desenquadramento. 
+      
+      - Emitir uma mensagem informando quem aprovou o desconto.      
+      
+*/
